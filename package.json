@@ -1,7 +1,7 @@
 {
-  "name": "program",
-  "version": "1.0.0",
   "dependencies": {
+    "folktale": "^2.3.2",
+    "fs": "^0.0.1-security",
     "lodash": "^4.17.21"
   }
 }
